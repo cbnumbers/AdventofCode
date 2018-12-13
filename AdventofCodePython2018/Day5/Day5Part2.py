@@ -1,8 +1,8 @@
+#### should result in two arrays of x and y coverage for each claim
+#### then combine covered x and y coordinates and count, then total ea that is >1 this will be answer
 #### make array of both x coordinate and y coordinate
 #### make array of both X size and Y size
 #### loop through coordinate array, for each coordinate make empty list to loop through i = 0:size and add +1 to each entry in the array
-#### should result in two arrays of x and y coverage for each claim
-#### then combine covered x and y coordinates and count, then total ea that is >1 this will be answer
 import re 
 inputdata = open("D:\\CodeProjects\\PythonStuff\\AdventofCodePython2018\\AdventofCodePython2018\\Day5\\Day5Input.txt", "r").read().split()
 print(inputdata[0])
