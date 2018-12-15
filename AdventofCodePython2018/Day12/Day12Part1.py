@@ -4,7 +4,7 @@
 ####
 ####
 import re
-##inputdata = open("D:\\CodeProjects\\PythonStuff\\AdventofCodePython2018\\AdventofCodePython2018\\Day12\\Day12Input.txt", "r").read().split()
+#inputdata = open("D:\\CodeProjects\\PythonStuff\\AdventofCodePython2018\\AdventofCodePython2018\\Day12\\Day12Input.txt", "r").read().split()
 initialstate = '#...####.##..####..#.##....##...###.##.#..######..#..#..###..##.#.###.#####.##.#.#.#.##....#..#..#..'
 inputdata = open("F:\\Awesome Department\\Contract Pricing\\CodeProjects\\AdventofCode\\AdventofCodePython2018\\Day12\\Day12Input.txt", "r").read()
 

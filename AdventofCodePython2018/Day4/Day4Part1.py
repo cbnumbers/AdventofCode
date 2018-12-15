@@ -10,6 +10,7 @@ clean_time = re.sub(r' begins shift', '',clean_time)
 clean_time = re.sub(r'\n', ',',clean_time).split(',')
 
 
+
 #print(clean_time)
 
 time = []

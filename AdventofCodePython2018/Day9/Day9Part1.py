@@ -8,6 +8,7 @@
 #### place 0 marbel first
 #### 
 #### 
+#### 
 
 from collections import deque  ##this allows the use of double ended array ie the circle
 test = deque([0])
